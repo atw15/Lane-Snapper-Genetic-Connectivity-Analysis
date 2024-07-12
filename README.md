@@ -109,5 +109,3 @@ This project was developed under the guidance of Dr. Elizabeth Babcock. Her expe
 - **Jombart, T., et al. (2011).** adegenet 1.3-1: New tools for the analysis of genome-wide SNP data. *Bioinformatics*.
 
 ---
-
-This repository provides a comprehensive workflow for analyzing genetic connectivity of Lane Snapper, from data filtering and HWE testing to advanced modeling and visualization. The annotated code offers clear explanations for each step, making it easy to follow and reproduce the analysis.
