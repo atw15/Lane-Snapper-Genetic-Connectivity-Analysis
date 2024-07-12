@@ -12,7 +12,7 @@ This repository contains R code and data analysis workflow for studying the gene
 - [Model Comparison](#model-comparison)
 - [Visualization](#visualization)
 - [Gene Flow and Admixture Analysis](#gene-flow-and-admixture-analysis)
-- [Isolation By Distance](#isolation-by-distance)
+- [Acknowledgements](#acknowledgements)
 - [References](#references)
 
 ## Introduction
@@ -86,12 +86,10 @@ This project aims to investigate the genetic diversity and connectivity among La
 - Conduct admixture analysis using LEA package and plot ancestry matrices.
 - Evaluate population structure using cross-entropy and select optimal number of clusters (K).
 
-## Isolation By Distance
+## Acknowledgements
 
-- Analyze isolation by distance for each dataset:
-    - Out All
-    - Out Combo
-    - No Filter
+This project was developed under the guidance of Dr. Elizabeth Babcock. Her expertise and support were invaluable in completing this analysis.
+
 
 ## References
 
